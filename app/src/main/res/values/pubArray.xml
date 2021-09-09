@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pub">
+        <item>전국</item>
+        <item> 강남 </item>
+        <item> 홍대 </item>
+        <item> 건대 </item>
+        <item>그 외</item>
+    </string-array>
+</resources>
